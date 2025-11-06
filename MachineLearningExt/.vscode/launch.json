@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "BC Online Sandbox",
+            "type": "al",
+            "request": "launch",
+            "environmentType": "Sandbox",
+            "server": "https://businesscentral.dynamics.com/",
+            "tenant": "b6e77e52-65f6-4dec-b7d9-8e45f36a536f",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": true
+        }
+    ]
+}
