@@ -1,9 +1,8 @@
 [tool.poetry]
 name = "APIVentesBC"
 version = "0.1.0"
-description = "API pour Machine Learning avec FastAPI"
-authors = ["TonNom <jerome.hertzog@ecoles-epsi.net"]
-readme = "README.md"
+description = "API Machine Learning avec FastAPI"
+authors = ["TonNom <jerome.hertzog@ecoles-epsi.net>"]
 
 [tool.poetry.dependencies]
 python = "^3.12"
@@ -14,5 +13,3 @@ numpy = "^1.27.0"
 pandas = "^2.1.1"
 tensorflow = "^2.15.0"
 matplotlib = "^3.8.0"
-
-[tool.poetry.dev-dependencies]
